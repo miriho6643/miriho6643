@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a small Streamer from Austria.
+I am a small Streamer from Austria. </br>
 Have Fun with my Sotial Media channels: </br>
 [Discord](https://discord.gg/nAxnN4admc) </br>
 [Twitch](https://twitch.tv/miriho6643) </br>
