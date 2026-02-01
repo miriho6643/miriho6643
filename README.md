@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 I am a small Streamer from Austria.
-Have Fun with my Sotial Media channels:
-[Discord](https://discord.gg/nAxnN4admc)
-[Twitch](https://twitch.tv/miriho6643)
-[Email...](mailto:mianhoat@gmail.com)
+Have Fun with my Sotial Media channels: </br>
+[Discord](https://discord.gg/nAxnN4admc) </br>
+[Twitch](https://twitch.tv/miriho6643) </br>
+[Email...](mailto:mianhoat@gmail.com) </br>
 
 <!--
 **miriho6643/miriho6643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
